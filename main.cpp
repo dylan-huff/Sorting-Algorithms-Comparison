@@ -13,8 +13,6 @@
 // averaged and compared against each other. I will be using bubble sort,
 // merge sort, and radix sort. I tested that algorithms using arrays of
 // size 20, after that I changed the size to 5000 for the actual testing.
-// I got the code for the three algorithms that I used from the code that
-// Dr. Johnson went through in class.
 // ----------------------------------------------------------------------
 
 
